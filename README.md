@@ -40,6 +40,6 @@
         "Price": 310,
         "Genre": “Egg fried rice",
         "Rating": 4.5
-    },
+    }
     ]
    
